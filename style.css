@@ -1,12 +1,42 @@
-@import url('../lean/style.css');/*!
-Theme Name: Lean Child Theme Kit
-Theme URI: https://github.com/jbrad/lean-child-theme-kit
+@import url('../clean/style.css');
+/*!
+Theme Name: Clean Child Theme Kit
+Theme URI: https://github.com/jbrad/clean-child-theme-kit
 Version: 1.2
-Description: This is a "getting started" child theme kit for Lean Theme.
+Description: This is a "getting started" child theme kit for Clean Theme.
 Author: Jason Bradley
 Author URI: http://jasonbradley.me
 Author Email: jason.bradley@me.com
 License: GNU General Public License v3.0 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
-Template: lean
+Template: clean
 */
+/* Import Lean Styles
+---------------------------------------------------------------------------------- */
+/* Uncomment the line below to enable child theme right-to-left language support. */
+/* @import url( '../clean/rtl.css' ); */
+/* Uncomment the lines below to add color to your social icons. */
+/* Customizations
+---------------------------------------------------------------------------------- */
+/* Media Queries
+---------------------------------------------------------------------------------- */
+/* Smartphones */
+@media (max-width: 480px) {
+  
+}
+/* Tablet & Mobile */
+@media (max-width: 979px) {
+  
+}
+/* Mobile to Tablet */
+@media only screen and (max-width: 767px) {
+  
+}
+/* Landscape Tablets */
+@media (min-width: 768px) and (max-width: 979px) {
+  
+}
+/* Desktop */
+@media (min-width: 980px) {
+  
+}

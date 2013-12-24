@@ -1,16 +1,17 @@
 {
-  "name": "lean-child-theme-kit",
-  "version": "1.2.0",
-  "description": "This is a getting started child theme kit for Lean Theme.",
+  "name": "clean-child-theme-kit",
+  "version": "1.0.0",
+  "description": "This is a getting started child theme kit for Clean Theme.",
   "author": "Jason Bradley <http://jasonbradley.me>",
-  "homepage": "http://leantheme.co",
+  "homepage": "http://cleantheme.co",
   "repository": {
     "type": "git",
-    "url": "http://github.com/jbrad/lean-child-theme-kit.git"
+    "url": "http://github.com/jbrad/clean-child-theme-kit.git"
   },
   "engine": "node >= 0.4.1",
   "devDependencies": {
     "grunt-contrib-watch": "~0.5.x",
-    "grunt-contrib-less": "~0.6.x"
+    "grunt-contrib-less": "~0.6.x",
+    "grunt-contrib-compress": "~0.5.3"
   }
 }
