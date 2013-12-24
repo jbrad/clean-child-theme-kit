@@ -1,20 +1,20 @@
-# Lean Child Theme Kit
+# Clean Child Theme Kit
 
 ## Description
 
-This is a "getting started" child theme kit for [Lean](http://leantheme.co), crafted by [Jason Bradley](http://jasonbradley.me).
+This is a "getting started" child theme kit for [Clean](http://cleantheme.co), crafted by [Jason Bradley](http://jasonbradley.me).
 
-The [Lean Child Theme Kit](https://github.com/jbrad/lean-child-theme-kit) requires Lean Theme.
+The [Clean Child Theme Kit](https://github.com/jbrad/clean-child-theme-kit) requires Clean Theme.
 
 ## Installation
 
-*Note: Lean must be installed first for the Lean Child Theme Kit to work correctly.*
+*Note: Clean must be installed first for the Clean Child Theme Kit to work correctly.*
 
 There are two ways to install WordPress themes / child themes: via the WordPress Dashboard (recommended) and via FTP. 
 
 ### Using the WordPress Dashboard
 
-1. Download the [Lean Child Theme Kit](https://github.com/jbrad/lean-child-theme-kit/zipball/master).
+1. Download the [Clean Child Theme Kit](https://github.com/jbrad/clean-child-theme-kit/zipball/master).
 2. Locate the "Appearance" menu.
 3. In the "Appearance" menu, click on "Themes".
 4. On the "Themes" page, click on the "Install Themes" tab.
@@ -24,18 +24,18 @@ There are two ways to install WordPress themes / child themes: via the WordPress
 
 ### Using FTP
 
-1. Download the [Lean Child Theme Kit](https://github.com/jbrad/lean-child-theme-kit/zipball/master).
-2. Unzip the ```lean-child-theme-kit.zip``` archive on your computer.
+1. Download the [Clean Child Theme Kit](https://github.com/jbrad/clean-child-theme-kit/zipball/master).
+2. Unzip the ```clean-child-theme-kit.zip``` archive on your computer.
 3. Connect to your server via FTP.
-4. Upload the extracted ```lean-child-theme-kit``` directory to the ```/wp-content/themes/``` directory on your server.
+4. Upload the extracted ```clean-child-theme-kit``` directory to the ```/wp-content/themes/``` directory on your server.
 6. In the WordPress Dashboard, navigate to the "Themes" page under the "Appearance" menu.
-7. Locate "Lean Child Theme Kit" and click "Activate".
+7. Locate "Clean Child Theme Kit" and click "Activate".
 
 ## Usage
 
-Find the ```style.css``` file for the Lean Child Theme Kit and locate the "Customizations" section. You can add your own styles under this section to override the styles that come with Lean.
+Find the ```style.css``` file for the Clean Child Theme Kit and locate the "Customizations" section. You can add your own styles under this section to override the styles that come with Clean.
 
-If you happened to name Lean 3 theme directory anything else besides "lean" when you installed the theme, you will need to update the "Template" name and the ```@import``` path in the Lean Child Theme Kit's ```style.css``` in order for it to work correctly.
+If you happened to name Clean theme directory anything else besides "clean" when you installed the theme, you will need to update the "Template" name and the ```@import``` path in the Clean Child Theme Kit's ```style.css``` in order for it to work correctly.
 
 ## Frequently Asked Questions
 
